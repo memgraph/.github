@@ -1,1 +1,1 @@
-<a href="https://memgraph.com/"><img src="https://user-images.githubusercontent.com/4950251/220922297-2724dc27-f7c9-4d9b-ad07-25f6c908e32e.png" alt="Memgraph" title="Memgraph"/></a>
+<a href="https://memgraph.com/"><img src="https://github.com/user-attachments/assets/bc1d7b62-aae6-4c5b-9d7d-df0f1ecc037a" alt="Memgraph" title="Memgraph"/></a>
